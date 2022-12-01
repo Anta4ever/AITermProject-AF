@@ -1,1 +1,7 @@
+Please read the 'README' file before continuing.
 
+In this project you will watch as a Machine Learning Model (refferenced as AI) will play the game of snake.
+With this being said the more time passes the AI will eventually learn from its mistakes and adapt to its environment (This usually spands from 15-20 minutes in real-time.
+In order to show a complete change in the way the AI adapts and learns- the demo video had to be speed up in order to accomidate).
+As it collects the orbs moving in random directions the AI snake will grown longer- whilst trying to no end the game by getting tangled into it's self.
+Prior methods used in previous projects such as Pacman were used in the making of this project.
